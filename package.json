@@ -1,0 +1,24 @@
+{
+  "name": "Fan-Quiz-Virat",
+  "version": "1.0.0",
+  "description": "This a Fan Quiz CLI App about the Virat Kohli built using NodeJS / Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman-Jain1996/Fan-Quiz-Virat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman-Jain1996/Fan-Quiz-Virat/issues"
+  },
+  "homepage": "https://github.com/Aman-Jain1996/Fan-Quiz-Virat#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
